@@ -40,7 +40,8 @@ pub fn main() {
     Ok(Nil) -> io.println("Finished")
     Error(msg) -> io.println("Error: " <> msg)
   }
-}```
+}
+```
 
 Further documentation can be found at <https://hexdocs.pm/cangaroo>.
 
