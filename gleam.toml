@@ -1,0 +1,13 @@
+name = "cangaroo"
+version = "1.0.0"
+description = "Gleam bindings for the Excansock Elixir library"
+licences = ["Apache-2.0"]
+repository = { type = "github", user = "DaanVervacke", repo = "cangaroo" }
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
+excansock = ">= 1.0.2 and < 2.0.0"
+gleam_erlang = ">= 1.3.0 and < 2.0.0"
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
