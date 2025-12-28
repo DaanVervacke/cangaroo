@@ -1,6 +1,6 @@
 name = "cangaroo"
-version = "1.0.2"
-description = "Gleam bindings for the Excansock Elixir library"
+version = "1.0.3"
+description = "Gleam bindings for SocketCAN communication on Linux"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "DaanVervacke", repo = "cangaroo" }
 
