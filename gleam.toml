@@ -1,5 +1,5 @@
 name = "cangaroo"
-version = "1.0.0"
+version = "1.0.2"
 description = "Gleam bindings for the Excansock Elixir library"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "DaanVervacke", repo = "cangaroo" }
