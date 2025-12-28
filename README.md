@@ -2,6 +2,7 @@
 
 [![Package Version](https://img.shields.io/hexpm/v/cangaroo)](https://hex.pm/packages/cangaroo)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/cangaroo/)
+
 cangaroo provides Gleam bindings to the [Excansock](https://github.com/pavels/excansock) Elixir library, enabling Gleam applications to communicate with SocketCAN devices on Linux.
 
 ```sh
